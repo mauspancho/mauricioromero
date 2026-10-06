@@ -1,0 +1,11 @@
+Tux: mascota de Linux.
+Fuente: https://commons.wikimedia.org/wiki/File:Tux.svg
+Autores: Larry Ewing, Simon Budig y Garrett LeSage.
+Diseño original: Larry Ewing (lewing@isc.tamu.edu), realizado con The GIMP.
+
+Aviso de copyright y redistribución de Simon Budig:
+These drawings are copyrighted by Larry Ewing and Simon Budig
+(penguin-variant.sk also by Anja Gerwinski), redistribution is free
+but has to include this README/Copyright notice.
+
+Fuente del aviso: http://www.home.unix-ag.org/simon/penguin/
